@@ -1,0 +1,16 @@
+.test{
+    color: greenyellow;
+}
+.page-current.active {
+    background-color: red;
+    color: #ffffff;
+    cursor: not-allowed;
+    
+}
+.alertsuccess{
+    width: auto;
+    height: 80px;
+    background-color: rgb(156, 208, 77);
+    text-align: center;
+    color: black;
+}
